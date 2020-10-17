@@ -3,6 +3,7 @@
 * The website meet the specified criteria and is varified by W3C velidator and follow latest HTML, CSS and JS standards.
 * Project is hosted on web.iiit.ac.in
 * Bootstrap is used inorder to make website compatoible with mobile and other devices.
+* https://aviral-s.github.io/2020201062_SSDAssignment2/
 
 ## **Liberaries Used**
 Following are the liberary used:
