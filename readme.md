@@ -16,3 +16,4 @@ Following are the liberary used:
 * Contain 3 html pages name `index.html` ,`about.html` ,`contact.html` which can be navigated through navigation bar.
 * Used external css and js with name `style.css` and `script.js`
 * All the images which will be used are enclosed within the folder.
+* This file is branched from main.
